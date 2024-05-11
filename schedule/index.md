@@ -15,7 +15,7 @@ group: schedule
 
 9:45 AM: Doeke Hekstra
 
-#### 10:15-10:45 AM: Break
+##### 10:15-10:45 AM: Break
 
 10:45 AM: Rachael Kretsch
 
@@ -23,19 +23,22 @@ group: schedule
 
 11:45 AM: Tristian Croll
 
-#### 12:15-1:30 PM: Lunch
+##### 12:15-1:30 PM: Lunch
 
 1:30 PM: Frank Noe
 
 2:00 PM: Bowen Jing
 
-#### 2:30-3:15 PM: Break
+##### 2:30-3:15 PM: Break
 
 3:15 PM: Max Bonomi: Bayesian approaches for integrative determination of protein conformational ensembles
 
 3:45 PM: Andrew Natale
 
-#### 4:30-7PM : Happy Hour at Altos
+##### 4:30-7PM : Happy Hour at Altos
+
+
+
 
 
 ## Tuesday June 18th
@@ -48,7 +51,7 @@ group: schedule
 
 9:45 AM: Yirogo
 
-#### 10:15-10:30 AM: Break
+##### 10:15-10:30 AM: Break
 
 10:30 AM: Aniket Tolpadi 	
 
@@ -56,11 +59,11 @@ group: schedule
 
 11:30 AM: Arthur Zalevsky 
 
-#### 12:00-1:00 PM: Lunch
+##### 12:00-1:00 PM: Lunch
 
 1:00-3:00 PM: Breakout groups: Encoding, Timescale, Lengthscale
 
 3:00-4:30 PM: Breakout group presentations
 
-#### 6:00 PM: Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)
+##### 6:00 PM: Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)
 
