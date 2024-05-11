@@ -9,58 +9,58 @@ group: schedule
 
 8:30 AM - Coffee & Snacks
 
-9 AM - Welcome: James Fraser
+9:00 AM - James Fraser: Welcome
 
-9:15 - 9:45: Stephanie Wankowicz: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
+9:15 AM: Stephanie Wankowicz: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
 
-9:45-10:15: Doeke Hekstra
+9:45 AM: Doeke Hekstra
 
-### 10:15-10:45: Break
+#### 10:15-10:45 AM: Break
 
-10:45-11:15: Rachael Kretsch
+10:45 AM: Rachael Kretsch
 
-11:15-11:45: Pavel Afonine: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
+11:15 AM: Pavel Afonine: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
 
-11:45-12:15: Tristian Croll
+11:45 AM: Tristian Croll
 
-### 12:15-1:30: Lunch
+#### 12:15-1:30 PM: Lunch
 
-1:30-2:00: Frank Noe
+1:30 PM: Frank Noe
 
-2:00-2:30: Bowen Jing
+2:00 PM: Bowen Jing
 
-### 2:30-3:15: Break
+#### 2:30-3:15 PM: Break
 
-3:15-3:45: Max Bonomi: Bayesian approaches for integrative determination of protein conformational ensembles
+3:15 PM: Max Bonomi: Bayesian approaches for integrative determination of protein conformational ensembles
 
-3:45-4:15: Andrew Natale
+3:45 PM: Andrew Natale
 
-### 4:30-7: Happy Hour at Altos
+#### 4:30-7PM : Happy Hour at Altos
 
 
 ## Tuesday June 18th
 
-8:30AM - Coffee & Snacks provided by Altos
+8:30 AM - Coffee & Snacks provided by Altos
 
-9AM - Welcome AF
+9:00 AM - Welcome: Adam Frost
 
-9:15 - 9:45: Kiarish
+9:15 AM: Kiarish
 
-9:45-10:15: Yirogo
+9:45 AM: Yirogo
 
-10:15-10:30: Break
+#### 10:15-10:30 AM: Break
 
-10:30-11:00: Aniket Tolpadi 	
+10:30 AM: Aniket Tolpadi 	
 
-11:00-11:30: Ellen Zhong
+11:00 AM: Ellen Zhong
 
-11:30-12:00: Arthur Zalevsky: 
+11:30 AM: Arthur Zalevsky 
 
-12:00-1:00: Lunch
+#### 12:00-1:00 PM: Lunch
 
-1:00-3:00: Breakout groups on remixing ideas and material
+1:00-3:00 PM: Breakout groups: Encoding, Timescale, Lengthscale
 
-3:00-4:30: Breakout group presentations
+3:00-4:30 PM: Breakout group presentations
 
-6:00: Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)
+#### 6:00 PM: Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)
 
