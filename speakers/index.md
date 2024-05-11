@@ -16,27 +16,25 @@ group: Speakers
 <br>
 [Doeke Hekstra](https://hekstralab.fas.harvard.edu/)
 <br>
-Bowen Jiang
+[Bowen Jing](https://people.csail.mit.edu/bjing/)
 <br>
-Rachael Kretsch
+[Rachael Kretsch](https://scholar.google.com/citations?user=ZEYYMgYAAAAJ&hl=en)
 <br>
-Andrew Natale
+[Andrew Natale](https://scholar.google.com/citations?user=nCIzSMkAAAAJ&hl=en)
 <br>
-Yirogo Skiniotis
+[Yiorgo Skiniotis](https://med.stanford.edu/skiniotislab.html)
 <br>
-Aniket Tolpadi
+[Aniket Tolpadi](https://scholar.google.com/citations?user=9f5moa4AAAAJ&hl=en)
 <br>
 [Stephanie Wankowicz](https://stephaniewankowicz.github.io/)
-<br>
-Ellen Zhong
 
 # Organizers
-Tristian Croll
+[Tristan Croll](https://tristanic.github.io/isolde/about/index.html)
 <br>
-James Fraser
+[James Fraser](https://fraserlab.com/)
 <br>
-Adam Frost
+[Adam Frost](https://www.altoslabs.com/team/adam-frost)
 <br>
-Stephanie Wankowicz
+[Stephanie Wankowicz](https://stephaniewankowicz.github.io/)
 <br>
 
