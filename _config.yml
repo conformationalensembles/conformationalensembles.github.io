@@ -1,7 +1,7 @@
 name: "Macromolecular Conformational Ensemble Conference"
 description: ""
 
-url: "http://conformational_ensembles.github.io"
+url: "http://conformationalensembles.github.io"
 
 gems: [jekyll-paginate]
 paginate: 10
