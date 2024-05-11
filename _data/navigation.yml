@@ -2,42 +2,19 @@
   link: "/"
   group: home
 
-- name: research
-  link: "/research"
-  group: research
+- name: speakers
+  link: "/speakers"
+  group: speakers
 
-- name: publications
-  link: "/publications"
-  group: publications
+- name: schedule
+  link: "/schedule"
+  group: schedule
+  
+- name: information
+  link: "/information"
+  group: information
 
-- name: reviews
-  link: "/reviews"
-  group: reviews
-
-- name: members
-  link: "/members"
-  group: members
-
-- name: teaching
-  link: "/courses"
-  group: courses
-
-- name: philosophy
-  link: "/philosophy"
-  group: philosophy
-
-- name: news
-  link: "/news"
-  group: news
-
-- name: join
-  link: "/join"
-  group: join
-
-- name: contact
-  link: "/contact"
-  group: contact
-
-- name: private
-  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
-  group: private
+- name: register
+  link: "/register"
+  group: register
+  
