@@ -3,17 +3,6 @@ title: Speakers
 layout: default
 group: Speakers
 ---
-# Organizers
-
-Tristian Croll
-<br>
-James Fraser
-<br>
-Adam Frost
-<br>
-Stephanie Wankowicz
-<br>
-
 
 # Speakers
 
@@ -21,11 +10,11 @@ Stephanie Wankowicz
 
 [Pavel Afonine](https://phenix-online.org/)
 <br>
-Max Bonomi
+[Max Bonomi](https://research.pasteur.fr/en/member/massimiliano-bonomi/)
 <br>
-Tristian Croll
+[Tristian Croll](https://tristanic.github.io/isolde/about/index.html)
 <br>
-Doeke Hekstra
+[Doeke Hekstra](https://hekstralab.fas.harvard.edu/)
 <br>
 Bowen Jiang
 <br>
@@ -37,6 +26,17 @@ Yirogo Skiniotis
 <br>
 Aniket Tolpadi
 <br>
-Stephanie Wankowicz
+[Stephanie Wankowicz](https://stephaniewankowicz.github.io/)
 <br>
 Ellen Zhong
+
+# Organizers
+Tristian Croll
+<br>
+James Fraser
+<br>
+Adam Frost
+<br>
+Stephanie Wankowicz
+<br>
+
