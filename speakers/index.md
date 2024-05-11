@@ -6,7 +6,6 @@ group: Speakers
 
 # Speakers
 
-##### See the schedule [here](/schedule/)
 
 [Pavel Afonine](https://phenix-online.org/)
 <br>
