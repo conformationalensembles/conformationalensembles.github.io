@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Macromolecular Conformational Ensemble Conference!
+# Macromolecular Conformational Ensemble Conference
 
 ![Conference Logo logo](static/img/Conference_Figure.jpg){:style="max-width: 100%; height: auto;"}
 
