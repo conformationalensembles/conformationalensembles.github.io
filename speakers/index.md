@@ -27,7 +27,9 @@ group: Speakers
 [Aniket Tolpadi](https://scholar.google.com/citations?user=9f5moa4AAAAJ&hl=en)
 <br>
 [Stephanie Wankowicz](https://stephaniewankowicz.github.io/)
-
+<br>
+<br>
+<br>
 # Organizers
 [Tristan Croll](https://tristanic.github.io/isolde/about/index.html)
 <br>
