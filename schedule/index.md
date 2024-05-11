@@ -11,31 +11,32 @@ group: schedule
 
 9 AM - Welcome: James Fraser
 
-9:15 - 9:45: Stephanie Wankowicz:Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
+9:15 - 9:45: Stephanie Wankowicz: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
 
-9:45-10:15: Doeke 
+9:45-10:15: Doeke Hekstra
 
-10:15-10:45: Break
+### 10:15-10:45: Break
 
-10:45-11:15: Rachael 	
+10:45-11:15: Rachael Kretsch
 
-11:15-11:45: Pavel: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
+11:15-11:45: Pavel Afonine: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
 
 11:45-12:15: Tristian Croll
 
-12:15-1:30: Lunch
+### 12:15-1:30: Lunch
 
 1:30-2:00: Frank Noe
 
-2:00-2:30: Bowen Jiang
+2:00-2:30: Bowen Jing
 
-2:30-3:15: Break
+### 2:30-3:15: Break
 
 3:15-3:45: Max Bonomi: Bayesian approaches for integrative determination of protein conformational ensembles
 
 3:45-4:15: Andrew Natale
 
-4:30-7: Happy Hour at Altos
+### 4:30-7: Happy Hour at Altos
+
 
 ## Tuesday June 18th
 
