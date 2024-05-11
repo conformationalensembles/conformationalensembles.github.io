@@ -4,10 +4,6 @@ description: ""
 url: "http://conformationalensembles.github.io"
 
 
-paginate: 5
-plugins: [jekyll-paginate]
-paginate_path: "news/page:num"
-
 permalink: pretty
 markdown: kramdown
 kramdown:
