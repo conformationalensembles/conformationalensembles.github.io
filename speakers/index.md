@@ -3,21 +3,40 @@ title: Speakers
 layout: default
 group: Speakers
 ---
+# Organizers
+
+Tristian Croll
+<br>
+James Fraser
+<br>
+Adam Frost
+<br>
+Stephanie Wankowicz
+<br>
+
 
 # Speakers
 
-##### See the [schedule here](/schedule/)
+##### See the schedule [here](/schedule/)
 
-Doeke Hekstra
-Bowen Jiang
-Rachael Kretsch
+[Pavel Afonine](https://phenix-online.org/)
+<br>
 Max Bonomi
-Ellen Zhong
-Yirogo Skiniotis
-Pavel Afonine
-Andrew Natale
-Aniket Tolpadi
+<br>
 Tristian Croll
-Adam Frost
-James Fraser
-Stephanie Wankowicz	
+<br>
+Doeke Hekstra
+<br>
+Bowen Jiang
+<br>
+Rachael Kretsch
+<br>
+Andrew Natale
+<br>
+Yirogo Skiniotis
+<br>
+Aniket Tolpadi
+<br>
+Stephanie Wankowicz
+<br>
+Ellen Zhong
