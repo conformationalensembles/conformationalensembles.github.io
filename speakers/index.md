@@ -33,13 +33,9 @@ group: Speakers
 # Organizers
 [Tristan Croll](https://tristanic.github.io/isolde/about/index.html)
 
-
 [James Fraser](https://fraserlab.com/)
 
-
 [Adam Frost](https://www.altoslabs.com/team/adam-frost)
-
-
 
 [Stephanie Wankowicz](https://stephaniewankowicz.github.io/)
 
