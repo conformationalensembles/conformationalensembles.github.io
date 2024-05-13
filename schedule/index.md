@@ -16,7 +16,9 @@ group: schedule
 9:45 AM: Doeke Hekstra
 
 
+
 ##### 10:15-10:45 AM: Break
+
 
 
 10:45 AM: Rachael Kretsch
@@ -26,7 +28,9 @@ group: schedule
 11:45 AM: Tristan Croll
 
 
+
 ##### 12:15-1:30 PM: Lunch
+
 
 
 1:30 PM: Frank Noe
@@ -34,7 +38,9 @@ group: schedule
 2:00 PM: Bowen Jing
 
 
+
 ##### 2:30-3:15 PM: Break
+
 
 
 3:15 PM: Max Bonomi: Bayesian approaches for integrative determination of protein conformational ensembles
@@ -42,10 +48,12 @@ group: schedule
 3:45 PM: Andrew Natale
 
 
+
 ##### 4:30-7PM: Happy Hour at Altos
 
 
 <br>
+
 
 
 
@@ -62,7 +70,9 @@ group: schedule
 9:45 AM: Yiorgo Skiniotis
 
 
+
 ##### 10:15-10:30 AM: Break
+
 
 
 10:30 AM: Aniket Tolpadi 	
@@ -72,12 +82,15 @@ group: schedule
 11:30 AM: Arthur Zalevsky 
 
 
+
 ##### 12:00-1:00 PM: Lunch
+
 
 
 1:00-3:00 PM: Breakout groups: Encoding, Timescale, Lengthscale
 
 3:00-4:30 PM: Breakout group presentations
+
 
 
 ##### 6:00 PM: Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)
