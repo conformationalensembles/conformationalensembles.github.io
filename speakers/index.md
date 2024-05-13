@@ -11,7 +11,7 @@ group: Speakers
 <br>
 [Max Bonomi](https://research.pasteur.fr/en/member/massimiliano-bonomi/)
 <br>
-[Tristian Croll](https://tristanic.github.io/isolde/about/index.html)
+[Tristan Croll](https://tristanic.github.io/isolde/about/index.html)
 <br>
 [Doeke Hekstra](https://hekstralab.fas.harvard.edu/)
 <br>
@@ -31,6 +31,7 @@ group: Speakers
 <br>
 <br>
 # Organizers
+
 [Tristan Croll](https://tristanic.github.io/isolde/about/index.html)
 
 [James Fraser](https://fraserlab.com/)
