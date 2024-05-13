@@ -15,29 +15,39 @@ group: schedule
 
 9:45 AM: Doeke Hekstra
 
+
 ##### 10:15-10:45 AM: Break
+
 
 10:45 AM: Rachael Kretsch
 
 11:15 AM: Pavel Afonine: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
 
-11:45 AM: Tristian Croll
+11:45 AM: Tristan Croll
+
 
 ##### 12:15-1:30 PM: Lunch
+
 
 1:30 PM: Frank Noe
 
 2:00 PM: Bowen Jing
 
+
 ##### 2:30-3:15 PM: Break
+
 
 3:15 PM: Max Bonomi: Bayesian approaches for integrative determination of protein conformational ensembles
 
 3:45 PM: Andrew Natale
 
-##### 4:30-7PM : Happy Hour at Altos
+
+##### 4:30-7PM: Happy Hour at Altos
+
 
 <br>
+
+
 
 
 
@@ -47,23 +57,28 @@ group: schedule
 
 9:00 AM - Welcome: Adam Frost
 
-9:15 AM: Kiarish
+9:15 AM: Kiarash Jamali
 
-9:45 AM: Yirogo
+9:45 AM: Yiorgo Skiniotis
+
 
 ##### 10:15-10:30 AM: Break
 
+
 10:30 AM: Aniket Tolpadi 	
 
-11:00 AM: Ellen Zhong
+11:00 AM: 
 
 11:30 AM: Arthur Zalevsky 
 
+
 ##### 12:00-1:00 PM: Lunch
+
 
 1:00-3:00 PM: Breakout groups: Encoding, Timescale, Lengthscale
 
 3:00-4:30 PM: Breakout group presentations
+
 
 ##### 6:00 PM: Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)
 
