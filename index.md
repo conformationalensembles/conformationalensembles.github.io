@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Altos/QBI Macromolecular Conformational Ensembles Workshop
+# Altos Labs/QBI Macromolecular Conformational Ensembles Workshop
 
 ![Conference Logo logo](static/img/Conference_Figure.jpg){:style="max-width: 100%; height: auto;"}
 
