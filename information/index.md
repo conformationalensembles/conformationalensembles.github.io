@@ -12,7 +12,7 @@ The conference will be from 9-5 pm on June 17th and June 18th at Altos Labs (add
 Parking Information:
 <br>
 <br>
-Please head to the [registration tab](/registration) to register.
+Please head to the [registration tab](/register) to register.
 
 <br>
 <br>
