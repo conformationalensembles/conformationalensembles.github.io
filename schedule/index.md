@@ -35,7 +35,7 @@ group: schedule
 
 1:30 PM: Frank Noe
 
-2:00 PM: Bowen Jing
+2:00 PM: Bowen Jing: Towards Transferable Diffusion Generative Modeling of Protein Conformational Ensembles
 
 
 
@@ -45,7 +45,7 @@ group: schedule
 
 3:15 PM: Max Bonomi: Bayesian approaches for integrative determination of protein conformational ensembles
 
-3:45 PM: Andrew Natale
+3:45 PM: Andrew Natale: Limited disorder: interpreting images with simulated ensembles
 
 
 
