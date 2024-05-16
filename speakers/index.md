@@ -7,37 +7,39 @@ group: Speakers
 # Speakers
 
 
-[Pavel Afonine](https://phenix-online.org/)
+[Pavel Afonine, Phenix/LBNL](https://phenix-online.org/)
 <br>
-[Max Bonomi](https://research.pasteur.fr/en/member/massimiliano-bonomi/)
+[Ben Barad, OHSU](https://www.ohsu.edu/people/benjamin-a-barad-phd)
 <br>
-[Tristan Croll](https://tristanic.github.io/isolde/about/index.html)
+[Max Bonomi, CNRS](https://research.pasteur.fr/en/member/massimiliano-bonomi/)
 <br>
-[Doeke Hekstra](https://hekstralab.fas.harvard.edu/)
+[Tristan Croll, Altos Labs](https://tristanic.github.io/isolde/about/index.html)
 <br>
-[Bowen Jing](https://people.csail.mit.edu/bjing/)
+[Doeke Hekstra, Harvard University](https://hekstralab.fas.harvard.edu/)
 <br>
-[Rachael Kretsch](https://scholar.google.com/citations?user=ZEYYMgYAAAAJ&hl=en)
+[Bowen Jing, MIT](https://people.csail.mit.edu/bjing/)
 <br>
-[Andrew Natale](https://scholar.google.com/citations?user=nCIzSMkAAAAJ&hl=en)
+[Rachael Kretsch, Stanford University](https://scholar.google.com/citations?user=ZEYYMgYAAAAJ&hl=en)
 <br>
-[Yiorgo Skiniotis](https://med.stanford.edu/skiniotislab.html)
+[Andrew Natale, Altos Lab](https://scholar.google.com/citations?user=nCIzSMkAAAAJ&hl=en)
 <br>
-[Aniket Tolpadi](https://scholar.google.com/citations?user=9f5moa4AAAAJ&hl=en)
+[Yiorgo Skiniotis, Stanford University](https://med.stanford.edu/skiniotislab.html)
 <br>
-[Stephanie Wankowicz](https://stephaniewankowicz.github.io/)
+[Aniket Tolpadi, Altos Labs](https://scholar.google.com/citations?user=9f5moa4AAAAJ&hl=en)
+<br>
+[Stephanie Wankowicz, UCSF](https://stephaniewankowicz.github.io/)
 
 
 <br>
 <br>
 # Organizers
 
-[Tristan Croll](https://tristanic.github.io/isolde/about/index.html)
+[Tristan Croll, Altos Lab](https://tristanic.github.io/isolde/about/index.html)
 
-[James Fraser](https://fraserlab.com/)
+[James Fraser, UCSF](https://fraserlab.com/)
 
-[Adam Frost](https://www.altoslabs.com/team/adam-frost)
+[Adam Frost, Altos Labs](https://www.altoslabs.com/team/adam-frost)
 
-[Stephanie Wankowicz](https://stephaniewankowicz.github.io/)
+[Stephanie Wankowicz, UCSF](https://stephaniewankowicz.github.io/)
 
 
