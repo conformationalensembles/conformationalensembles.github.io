@@ -28,7 +28,7 @@ group: schedule
 10:45 AM: Rachael Kretsch: Re-evaluating accuracy in structure prediction: opportunities in RNA cryo-EM
 
 
-11:15 AM: Pavel Afonine: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
+11:15 AM: Nigel Moriarty: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
 
 
 11:45 AM: Tristan Croll
@@ -54,6 +54,9 @@ group: schedule
 
 
 3:45 PM: Andrew Natale: Limited disorder: interpreting images with simulated ensembles
+
+
+4:15 PM: Fredric Poitevin
 
 
 
