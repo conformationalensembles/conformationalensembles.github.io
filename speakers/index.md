@@ -7,7 +7,7 @@ group: Speakers
 # Speakers
 
 
-[Pavel Afonine, Phenix/LBNL](https://phenix-online.org/)
+[Nigel Moriarty, Phenix/LBNL](https://phenix-online.org/)
 <br>
 [Ben Barad, OHSU](https://www.ohsu.edu/people/benjamin-a-barad-phd)
 <br>
