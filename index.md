@@ -18,5 +18,8 @@ This meeting is organized by [Altos Labs](https://www.altoslabs.com/) and the [Q
 The conference will take place on June 17th/18th at Altos Labs.
 
 
+Please head to the [registration tab](/register) to register.
+
+
 
 
