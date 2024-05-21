@@ -90,7 +90,7 @@ group: schedule
 
 
 
-10:30 AM: Aniket Tolpadi 	
+10:30 AM: Aniket Tolpadi: Mariano: Generative AI for Ensemble Structural Biology 	
 
 
 11:00 AM: Ben Barad
