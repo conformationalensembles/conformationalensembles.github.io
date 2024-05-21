@@ -17,7 +17,7 @@ This workshop aims to ignite innovative thinking about how our community can add
 This meeting is organized by [Altos Labs](https://www.altoslabs.com/) and the [Quantitative Biosciences Institute](https://qbi.ucsf.edu/). 
 <br>
 <br>
-The workshop will take place on June 17th/18th at Altos Labs.
+The workshop will take place on June 17th/18th at Altos Labs. Please head to the [information tab](/information) for more details. 
 
 
 Please head to the [registration tab](/register) to register.
