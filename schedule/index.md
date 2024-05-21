@@ -39,7 +39,7 @@ group: schedule
 
 
 
-1:30 PM: Frank Noe
+1:30 PM: Frank Noe: Generative AI for protein conformational ensembles
 
 
 2:00 PM: Bowen Jing: Towards Transferable Diffusion Generative Modeling of Protein Conformational Ensembles
