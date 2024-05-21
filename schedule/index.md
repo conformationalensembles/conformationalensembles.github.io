@@ -50,7 +50,7 @@ group: schedule
 
 **9:15 AM** - **Kiarash Jamali**
 
-**9:45 AM** - **Yiorgo Skiniotis**
+**9:45 AM** - **Yiorgo Skiniotis**: Exploring GPCR-G protein activation with time-resolved cryoEM and MD simulations
 
 ##### 10:15 AM: Break
 
