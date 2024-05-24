@@ -23,7 +23,7 @@ group: Speakers
 <br>
 [Andrew Natale, Altos Lab](https://scholar.google.com/citations?user=nCIzSMkAAAAJ&hl=en)
 <br>
-[Frank Noe, Microsoft Research]()
+[Frank Noe, Microsoft Research](https://www.microsoft.com/en-us/research/people/franknoe/)
 <br>
 [Yiorgo Skiniotis, Stanford University](https://med.stanford.edu/skiniotislab.html)
 <br>
