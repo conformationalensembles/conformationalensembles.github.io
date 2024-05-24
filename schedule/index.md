@@ -56,7 +56,7 @@ group: schedule
 
 **10:30 AM** - **Aniket Tolpadi**: Mariano: Generative AI for Ensemble Structural Biology
 
-**11:00 AM** - **Ben Barad**
+**11:00 AM** - **Ben Barad**: Quantitative analysis of membrane architecture in cryo-electron tomograms with Surface Morphometrics
 
 **11:30 AM** - **Arthur Zalevsky**
 
