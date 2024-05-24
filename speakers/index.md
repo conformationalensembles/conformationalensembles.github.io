@@ -23,6 +23,8 @@ group: Speakers
 <br>
 [Andrew Natale, Altos Lab](https://scholar.google.com/citations?user=nCIzSMkAAAAJ&hl=en)
 <br>
+Frank Noe
+<br>
 [Yiorgo Skiniotis, Stanford University](https://med.stanford.edu/skiniotislab.html)
 <br>
 [Aniket Tolpadi, Altos Labs](https://scholar.google.com/citations?user=9f5moa4AAAAJ&hl=en)
