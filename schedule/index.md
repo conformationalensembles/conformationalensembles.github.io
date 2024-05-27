@@ -14,7 +14,7 @@ group: schedule
 
 **9:15 AM** - **Stephanie Wankowicz**: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
 
-**9:45 AM** - **Doeke Hekstra**
+**9:45 AM** - **Doeke Hekstra**: SFCalculator, a differentiable link between crystallographic data and machine learning
 
 ##### 10:15 AM: Break
 
