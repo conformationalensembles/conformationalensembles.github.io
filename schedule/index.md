@@ -36,7 +36,7 @@ group: schedule
 
 **3:45 PM** - **Andrew Natale**: Limited disorder: interpreting images with simulated ensembles
 
-**4:15 PM** - **Frédéric Poitevin**
+**4:15 PM** - **Frédéric Poitevin**: Amortized Inference for Heterogeneous Reconstruction in CryoEM
 
 **4:30-7:00 PM** - **Happy Hour at Altos**
 
