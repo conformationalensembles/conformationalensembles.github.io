@@ -67,4 +67,4 @@ group: schedule
 **3:00-4:30 PM** - Breakout group presentations
 
 **6:00 PM** - **Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)**
-```
+
