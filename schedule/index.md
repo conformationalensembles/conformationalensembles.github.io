@@ -30,7 +30,7 @@ group: schedule
 
 **2:00 PM** - **Bowen Jing**: Towards Transferable Diffusion Generative Modeling of Protein Conformational Ensembles
 
-##### 2:30 PM: Break
+**2:00 PM** - **Break**
 
 **3:15 PM** - **Max Bonomi**: Bayesian approaches for integrative determination of protein conformational ensembles
 
@@ -38,13 +38,13 @@ group: schedule
 
 **4:15 PM** - **Frédéric Poitevin**
 
-##### 4:30-7:00 PM: Happy Hour at Altos
+**4:30-7:00 PM** - **Happy Hour at Altos**
 
 ---
 
 ## Tuesday, June 18th
 
-**8:30 AM** - Coffee
+**8:30 AM** - **Coffee**
 
 **9:00 AM** - **Adam Frost**: Welcome
 
@@ -52,7 +52,7 @@ group: schedule
 
 **9:45 AM** - **Yiorgo Skiniotis**: Exploring GPCR-G protein activation with time-resolved cryoEM and MD simulations
 
-##### 10:15 AM: Break
+**10:15 AM** - **Break**
 
 **10:30 AM** - **Aniket Tolpadi**: Mariano: Generative AI for Ensemble Structural Biology
 
@@ -60,11 +60,11 @@ group: schedule
 
 **11:30 AM** - **Arthur Zalevsky**
 
-##### 12:00 PM: Lunch
+**12:00 PM** - **Lunch**
 
 **1:00-3:00 PM** - Breakout groups: Encoding, Timescale, Lengthscale
 
 **3:00-4:30 PM** - Breakout group presentations
 
-##### 6:00 PM: Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)
+**6:00 PM** - **Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)**
 ```
