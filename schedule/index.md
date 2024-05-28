@@ -8,7 +8,7 @@ group: schedule
 
 ## Monday, June 17th
 
-**8:30 AM** - Coffee & Snacks
+**8:30 AM** - Coffee
 
 **9:00 AM** - **James Fraser**: Welcome
 
@@ -44,7 +44,7 @@ group: schedule
 
 ## Tuesday, June 18th
 
-**8:30 AM** - Coffee & Snacks provided by Altos
+**8:30 AM** - Coffee
 
 **9:00 AM** - **Adam Frost**: Welcome
 
