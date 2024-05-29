@@ -12,27 +12,28 @@ group: schedule
 
 **9:00 AM** - **James Fraser**: Welcome
 
-**9:15 AM** - **Stephanie Wankowicz**: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
+**9:15 AM** - **Frank Noe**: Generative AI for protein conformational ensembles
 
-**9:45 AM** - **Doeke Hekstra**: SFCalculator, a differentiable link between crystallographic data and machine learning
+
+**9:45 AM** - **Arthur Zalevsky** 
 
 ##### 10:15 AM: Break
 
-**10:45 AM** - **Rachael Kretsch**: Re-evaluating accuracy in structure prediction: opportunities in RNA cryo-EM
+**10:45 AM** - **Doeke Hekstra**: SFCalculator, a differentiable link between crystallographic data and machine learning 
 
 **11:15 AM** - **Nigel Moriarty**: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
 
-**11:45 AM** - **Tristan Croll**
+**11:45 AM** - **Max Bonomi**: Bayesian approaches for integrative determination of protein conformational ensembles
 
 ##### 12:15 PM: Lunch
 
-**1:30 PM** - **Frank Noe**: Generative AI for protein conformational ensembles
+**1:30 PM** - **Stephanie Wankowicz**: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
 
 **2:00 PM** - **Bowen Jing**: Towards Transferable Diffusion Generative Modeling of Protein Conformational Ensembles
 
 **2:00 PM** - **Break**
 
-**3:15 PM** - **Max Bonomi**: Bayesian approaches for integrative determination of protein conformational ensembles
+**3:15 PM** - **Tristan Croll**
 
 **3:45 PM** - **Andrew Natale**: Limited disorder: interpreting images with simulated ensembles
 
@@ -48,7 +49,7 @@ group: schedule
 
 **9:00 AM** - **Adam Frost**: Welcome
 
-**9:10 AM** - **Kiarash Jamali**
+**9:10 AM** - **Rachael Kretsch**: Re-evaluating accuracy in structure prediction: opportunities in RNA cryo-EM 
 
 **9:35 AM** - **Yiorgo Skiniotis**: Exploring GPCR-G protein activation with time-resolved cryoEM and MD simulations
 
@@ -60,7 +61,7 @@ group: schedule
 
 **11:15 AM** - **Ben Barad**: Quantitative analysis of membrane architecture in cryo-electron tomograms with Surface Morphometrics
 
-**11:45 AM** - **Arthur Zalevsky**
+**11:45 AM** - **Kiarash Jamali**
 
 **12:15 PM** - **Lunch**
 
