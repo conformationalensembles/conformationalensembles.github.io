@@ -38,7 +38,7 @@ group: schedule
 
 **4:15 PM** - **Frédéric Poitevin**: Amortized Inference for Heterogeneous Reconstruction in CryoEM
 
-**4:30-7:00 PM** - **Happy Hour at Altos**
+**4:45-7:00 PM** - **Happy Hour at Altos**
 
 ---
 
@@ -48,23 +48,25 @@ group: schedule
 
 **9:00 AM** - **Adam Frost**: Welcome
 
-**9:15 AM** - **Kiarash Jamali**
+**9:10 AM** - **Kiarash Jamali**
 
-**9:45 AM** - **Yiorgo Skiniotis**: Exploring GPCR-G protein activation with time-resolved cryoEM and MD simulations
+**9:35 AM** - **Yiorgo Skiniotis**: Exploring GPCR-G protein activation with time-resolved cryoEM and MD simulations
 
-**10:15 AM** - **Break**
+**9:55 AM** - **Hannah Wayment-Steele**
 
-**10:30 AM** - **Aniket Tolpadi**: Mariano: Generative AI for Ensemble Structural Biology
+**10:25 AM** - **Break**
 
-**11:00 AM** - **Ben Barad**: Quantitative analysis of membrane architecture in cryo-electron tomograms with Surface Morphometrics
+**10:45 AM** - **Aniket Tolpadi**: Mariano: Generative AI for Ensemble Structural Biology
 
-**11:30 AM** - **Arthur Zalevsky**
+**11:15 AM** - **Ben Barad**: Quantitative analysis of membrane architecture in cryo-electron tomograms with Surface Morphometrics
 
-**12:00 PM** - **Lunch**
+**11:45 AM** - **Arthur Zalevsky**
 
-**1:00-3:00 PM** - Breakout groups: Encoding, Timescale, Lengthscale
+**12:15 PM** - **Lunch**
 
-**3:00-4:30 PM** - Breakout group presentations
+**1:15-3:15 PM** - Breakout groups: Encoding, Timescale, Lengthscale
+
+**3:15-4:45 PM** - Breakout group presentations
 
 **6:00 PM** - **Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)**
 
