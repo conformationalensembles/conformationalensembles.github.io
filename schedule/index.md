@@ -53,7 +53,7 @@ group: schedule
 
 **9:10 AM** - **Aniket Tolpadi**: Mariano: Generative AI for Ensemble Structural Biology  
 
-**9:35 AM** - **Hannah Wayment-Steele**
+**9:35 AM** - **Hannah Wayment-Steele**: A benchmark for timescales in protein dynamics
 
 **9:55 AM** - **Bowen Jing**: Towards Transferable Diffusion Generative Modeling of Protein Conformational Ensembles
 
