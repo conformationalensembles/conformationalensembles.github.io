@@ -26,7 +26,7 @@ group: schedule
 
 ##### 12:15 PM: Lunch
 
-**1:30 PM** - **Andrew Natale**: Limited disorder: interpreting images with simulated ensembles
+**1:30 PM** - **Frédéric Poitevin**: Amortized Inference for Heterogeneous Reconstruction in CryoEM
 
 **2:00 PM** - **Yiorgo Skiniotis**: Exploring GPCR-G protein activation with time-resolved cryoEM and MD simulations
 
@@ -34,9 +34,7 @@ group: schedule
 
 **3:15 PM** - **Max Bonomi**: Bayesian approaches for integrative determination of protein conformational ensembles
 
-**3:45 PM** - **Frédéric Poitevin**: Amortized Inference for Heterogeneous Reconstruction in CryoEM
-
-**4:15 PM** - **Stephanie Wankowicz**: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
+**4:45 PM** - **Stephanie Wankowicz**: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
 
 **4:45-7:00 PM** - **Happy Hour at Altos**
 
@@ -51,9 +49,9 @@ group: schedule
 
 **9:00 AM** - **Adam Frost**: Welcome
 
-**9:10 AM** - **Aniket Tolpadi**: Mariano: Generative AI for Ensemble Structural Biology  
+**9:10 AM** - **Hannah Wayment-Steele**: A benchmark for timescales in protein dynamics 
 
-**9:35 AM** - **Hannah Wayment-Steele**: A benchmark for timescales in protein dynamics
+**9:35 AM** - **Frank Moss**: A Toolkit for Studying Membrane Structural Dynamics with CryoEM: Brominated Lipid Probes, Molecular Dynamics, and Multislice Simulation  
 
 **9:55 AM** - **Bowen Jing**: Towards Transferable Diffusion Generative Modeling of Protein Conformational Ensembles
 
