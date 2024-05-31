@@ -13,12 +13,12 @@ group: Speakers
 - [Doeke Hekstra, Harvard University](https://hekstralab.fas.harvard.edu/)
 - [Bowen Jing, MIT](https://people.csail.mit.edu/bjing/)
 - [Rachael Kretsch, Stanford University](https://scholar.google.com/citations?user=ZEYYMgYAAAAJ&hl=en)
-- [Andrew Natale, Altos Lab](https://scholar.google.com/citations?user=nCIzSMkAAAAJ&hl=en)
+- [Frank Moss, Altos Labs](https://scholar.google.com/citations?user=9f5moa4AAAAJ&hl=en)
 - [Frank Noe, Microsoft Research](https://www.microsoft.com/en-us/research/people/franknoe/)
 - [Frédéric Poitevin, SLAC](https://www.linkedin.com/in/fredericpoitevin/?locale=en_US)
 - [Yiorgo Skiniotis, Stanford University](https://med.stanford.edu/skiniotislab.html)
-- [Aniket Tolpadi, Altos Labs](https://scholar.google.com/citations?user=9f5moa4AAAAJ&hl=en)
 - [Stephanie Wankowicz, UCSF](https://stephaniewankowicz.github.io/)
+- [Hannah Wayment-Steele, Brandeis](https://hwaymentsteele.github.io/)
 
 # Organizers
 
