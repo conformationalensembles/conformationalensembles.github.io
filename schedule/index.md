@@ -22,7 +22,7 @@ group: schedule
 
 **11:15 AM** - **Frank Noe**: Generative AI for protein conformational ensembles
 
-**11:45 AM** - **Tristan Croll** 
+**11:45 AM** - **Tristan Croll**: 90% of the way to anywhere: getting (and recognising) a physically sensible best-fit single model from a low-resolution map
 
 ##### 12:15 PM: Lunch
 
@@ -61,7 +61,7 @@ group: schedule
 
 **11:15 AM** - **Ben Barad**: Quantitative analysis of membrane architecture in cryo-electron tomograms with Surface Morphometrics
 
-**11:45 AM** - **Kiarash Jamali**
+**11:45 AM** - **Kiarash Jamali**:  Automated model building and protein identification in cryo-em maps
 
 **12:15 PM** - **Lunch**
 
