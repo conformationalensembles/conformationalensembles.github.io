@@ -16,13 +16,13 @@ group: schedule
 
 **9:45 AM** - **Arthur Zalevsky** 
 
-**10:15 AM** - **Break**
+**10:15 AM** - Break
 
 **11:00 AM** -  **Nigel Moriarty**: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
 
 **11:30 AM** - **Frank Noe**: Generative AI for protein conformational ensembles
 
-**12:00 PM** - **Lunch**
+**12:00 PM** - Lunch
 
 **1:15 PM** - **Frédéric Poitevin**: Amortized Inference for Heterogeneous Reconstruction in CryoEM
 
@@ -30,7 +30,7 @@ group: schedule
 
 **2:15 PM** - **Ben Barad**: Quantitative analysis of membrane architecture in cryo-electron tomograms with Surface Morphometrics
 
-**2:45 PM** - **Break**
+**2:45 PM** - Break
 
 **3:15 PM** - **Max Bonomi**: Bayesian approaches for integrative determination of protein conformational ensembles
 
@@ -38,7 +38,7 @@ group: schedule
 
 **4:15 PM** - **Stephanie Wankowicz**: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM
 
-**4:45-7:00 PM** - **Happy Hour at Altos**
+**4:45-7:00 PM** - Happy Hour at Altos Labs
 
 
 
@@ -47,7 +47,7 @@ group: schedule
 
 ## Tuesday, June 18th
 
-**8:30 AM** - **Coffee**
+**8:30 AM** - Coffee
 
 **9:00 AM** - **Adam Frost**: Welcome
 
@@ -57,17 +57,17 @@ group: schedule
 
 **10:15 AM** - **Bowen Jing**: Towards Transferable Diffusion Generative Modeling of Protein Conformational Ensembles
 
-**10:45 AM** - **Break**
+**10:45 AM** - Break
 
 **11:15 AM** - **Rachael Kretsch**: Re-evaluating accuracy in structure prediction: opportunities in RNA cryo-EM 
 
 **11:45 AM** - **Kiarash Jamali**:  Automated model building and protein identification in cryo-em maps
 
-**12:15 PM** - **Lunch**
+**12:15 PM** - Lunch
 
 **1:15-3:15 PM** - Breakout groups: Encoding, Timescale, Lengthscale
 
 **3:15-4:45 PM** - Breakout group presentations
 
-**6:00 PM** - **Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)**
+**6:00 -8:00 PM** - Happy Hour at [Barebottle Bernal Heights](https://www.barebottle.com/bernal-heights-brewery-taproom)
 
