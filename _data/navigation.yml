@@ -18,6 +18,10 @@
   link: "/register"
   group: register
 
+- name: abstracts
+  link: "/abstracts"
+  group: abstracts
+
 - name: 2024
   link: "/2024"
   group: 2024
