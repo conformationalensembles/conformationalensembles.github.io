@@ -17,4 +17,8 @@
 - name: register
   link: "/register"
   group: register
+
+- name: 2024
+  link: "/2024"
+  group: 2024
   
