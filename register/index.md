@@ -1,4 +1,9 @@
 
-Please [register here](https://www.eventbrite.com/e/qbi-altos-labs-macromolecular-conformational-ensembles-workshop-tickets-907296908477?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl). 
+Registration link coming soon. 
 
-For further information, please contact Jared Gregory (jgregory@altoslabs.com). 
+Registration Fees:
+
+$100 Academic
+$500 Industry
+
+Registration includes lunch on both days. 
