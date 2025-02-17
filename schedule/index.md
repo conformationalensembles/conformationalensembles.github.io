@@ -4,6 +4,8 @@ layout: default
 group: schedule  
 ---
 
+**Finalized Schedule will be posted in May** 
+
 # Schedule
 
 ## Monday, June 9th
@@ -28,7 +30,7 @@ group: schedule
 
 **8:30 AM** - Coffee
 
-**9:00 AM** - 
+**9:00 AM** - **Ben Barad**
 
 **9:45 AM** - SPEAKER CHOOSEN FROM PAPERS
 
@@ -37,6 +39,10 @@ group: schedule
 **12:00 PM** - Lunch
 
 **1:30 PM** - SPEAKER CHOOSEN FROM PAPERS
+
+**2:00 PM** - 
+
+**2:30 PM** -
 
 **4:00 PM** - Closing Remarks
 
