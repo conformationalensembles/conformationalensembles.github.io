@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# QBI Macromolecular Conformational Ensembles: Statistical Structural Biology Modeling and Tools
+# QBI Macromolecular Conformational Ensembles: Statistical Structural Biology
 
 ![Conference Logo logo](static/img/Conference_Figure.jpg){:style="max-width: 100%; height: auto;"}
 
