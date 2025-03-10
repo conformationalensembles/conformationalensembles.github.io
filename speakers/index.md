@@ -10,6 +10,7 @@ group: Speakers
 - [Bronwyn Lucas, UC Berkely](https://www.lucaslab.science/)
 - [Sarah Rauscher, UToronto](https://rauscher-group.physics.utoronto.ca/)
 - [Ben Barad, OHSU](https://baradlab.com/)
+- [Axel Levy, SLAC/OHSU](https://axlevy.com/)
 
 
 # Organizers
