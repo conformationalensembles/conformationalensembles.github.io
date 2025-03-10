@@ -12,13 +12,13 @@ group: schedule
 
 **8:30 AM** - Coffee
 
-**9:00 AM** - **James Fraser**: Welcome
+**9:00 AM** - TBD
 
 **10:15 AM** - Break
 
 **12:15 PM** - Lunch
 
-**1:30 PM** - **Stephanie Wankowicz**: TBD
+**1:30 PM** - TBD
 
 **2:30 PM** - Break
 
@@ -30,7 +30,7 @@ group: schedule
 
 **8:30 AM** - Coffee
 
-**9:00 AM** - **Ben Barad**
+**9:00 AM** - TBD
 
 **9:45 AM** - SPEAKER CHOOSEN FROM PAPERS
 
