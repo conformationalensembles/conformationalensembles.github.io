@@ -5,13 +5,12 @@ group: Speakers
 ---
 
 # Speakers
-
-- [Hannah Wayment-Steele, UW Madison](https://waymentsteelelab.org/)
-- [Bronwyn Lucas, UC Berkely](https://www.lucaslab.science/)
-- [Sarah Rauscher, UToronto](https://rauscher-group.physics.utoronto.ca/)
 - [Ben Barad, OHSU](https://baradlab.com/)
 - [Axel Levy, Stanford/SLAC](https://axlevy.com/)
-
+- [Bronwyn Lucas, UC Berkely](https://www.lucaslab.science/)
+- [Sarah Rauscher, UToronto](https://rauscher-group.physics.utoronto.ca/)
+- [Pratyush Tiwary, UMaryland](https://chem.umd.edu/people/pratyush-tiwary)
+- [Hannah Wayment-Steele, UW Madison](https://waymentsteelelab.org/)
 
 # Organizers
 
