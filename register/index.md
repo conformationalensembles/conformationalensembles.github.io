@@ -4,8 +4,9 @@
 Registration Fees:
 
 $100 Academic
+<br>
 $500 Industry
 
 Registration includes lunch on both days. 
 
-Questions? Email conferences@wankowiczlab.com
+*Questions?* Email conferences@wankowiczlab.com
