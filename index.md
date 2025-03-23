@@ -15,13 +15,15 @@ This workshop aims to ignite innovative thinking about how our community can add
 
 <br>
 <br>
-The workshop will take place on June 9th/10th at UCSF Mission Bay. Please head to the [information tab](/information) for more details. 
+The workshop will take place on June 9th/10th at UCSF Mission Bay. For more details, please visit the [information tab](/information). 
 
 Please head to the [registration tab](/register) to register.
 
 **Organizers:**
+
 [James Fraser, UCSF](https://fraserlab.com/)
 <br>
+
 [Stephanie Wankowicz, Vanderbilt University](https://wankowiczlab.com/)
 
 
