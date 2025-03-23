@@ -21,6 +21,7 @@ Please head to the [registration tab](/register) to register.
 
 **Organizers:**
 [James Fraser, UCSF](https://fraserlab.com/)
+
 [Stephanie Wankowicz, Vanderbilt University](https://wankowiczlab.com/)
 
 
