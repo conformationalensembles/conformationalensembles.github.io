@@ -6,6 +6,7 @@ group: Speakers
 
 # Speakers
 - [Ben Barad, OHSU](https://baradlab.com/)
+- [Siyuan Du, Stanford](https://www.linkedin.com/in/siyuan-du-301b4a132/)
 - [Doeke Hekstra, Harvard](https://hekstralab.fas.harvard.edu/)
 - [Laurel Kinman, UCSF](https://kinmanlab.ucsf.edu/)
 - [Axel Levy, Stanford/SLAC](https://axlevy.com/)
