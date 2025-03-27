@@ -10,7 +10,7 @@ group: Speakers
 - [Doeke Hekstra, Harvard](https://hekstralab.fas.harvard.edu/)
 - [Laurel Kinman, UCSF](https://kinmanlab.ucsf.edu/)
 - [Axel Levy, Stanford/SLAC](https://axlevy.com/)
-- [Bronwyn Lucas, UC Berkely](https://www.lucaslab.science/)
+- [Bronwyn Lucas, UC Berkeley](https://www.lucaslab.science/)
 - [Sarah Rauscher, UToronto](https://rauscher-group.physics.utoronto.ca/)
 - [Erik Thiede, Cornell](https://thiedelab.github.io/)
 - [Pratyush Tiwary, UMaryland](https://chem.umd.edu/people/pratyush-tiwary)
