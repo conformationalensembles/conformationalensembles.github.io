@@ -20,7 +20,7 @@
 
 - name: paper submission
   link: "/paper_submissions"
-  group: abstracts
+  group: paper submission
 
 - name: 2024
   link: "/2024"
