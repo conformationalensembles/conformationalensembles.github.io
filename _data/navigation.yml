@@ -18,8 +18,8 @@
   link: "/register"
   group: register
 
-- name: abstracts
-  link: "/abstracts"
+- name: paper submission
+  link: "/paper_submissions"
   group: abstracts
 
 - name: 2024
