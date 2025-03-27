@@ -19,7 +19,7 @@
   group: register
 
 - name: paper submission
-  link: "/paper_submissions"
+  link: "/paper_submission"
   group: paper_submission
 
 - name: 2024
