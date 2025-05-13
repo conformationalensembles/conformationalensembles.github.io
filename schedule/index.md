@@ -34,9 +34,11 @@ group: schedule
 **4:30**: Happy Hour at [Ballast Point Brewing](https://ballastpoint.com/location/san-francisco/) 
 
 
-
+<br>
+<br>
 
 **Tuesday, June 10th**
+
 **9:00**: Coffee 
 
 **9:15**: Open Science and algorithms panel
