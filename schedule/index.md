@@ -29,7 +29,7 @@ group: schedule
 
 **3:20**: BREAK
 
-**3:50**: Stephanie Wankowicz: Decoding Conformational Ensembles in Ligand Binding
+**3:50**: Stephanie Wankowicz: Decoding conformational ensembles in ligand binding
 
 **4:30**: Happy Hour at [Ballast Point Brewing](https://ballastpoint.com/location/san-francisco/) 
 
@@ -41,7 +41,7 @@ group: schedule
 
 **9:00**: Coffee 
 
-**9:15**: Open Science and algorithms panel
+**9:15**: The role of open science in conformational ensemble algorithmic development
 
 **10:15**: Erik Thiede
 
