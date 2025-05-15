@@ -15,13 +15,13 @@ group: schedule
 
 **10:45**: BREAK
 
-**11:05**: Siyuan Du
+**11:05**: Siyuan Du: Has AlphaFold learned physics?
 
 **11:45**: Abstract Speaker #1
 
 **12:15**: LUNCH
 
-**1:30**: Hannah Wayment-Steele
+**1:30**: Hannah Wayment-Steele: Learning millisecond protein motions from what is missing in NMR spectra”
 
 **2:10**: Abstract Speaker #2
 
@@ -29,7 +29,7 @@ group: schedule
 
 **3:20**: BREAK
 
-**3:50**: TBD
+**3:50**: Stephanie Wankowicz: Decoding Conformational Ensembles in Ligand Binding
 
 **4:30**: Happy Hour at [Ballast Point Brewing](https://ballastpoint.com/location/san-francisco/) 
 
