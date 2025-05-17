@@ -51,7 +51,7 @@ group: schedule
 
 **12:00**: LUNCH
 
-**1:30**: Axel Levy
+**1:30**: Axel Levy: *Leveraging cryo-EM data for enhanced conformational sampling*
 
 **2:10**: Abstract #3
 
