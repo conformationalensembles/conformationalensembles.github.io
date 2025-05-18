@@ -9,7 +9,7 @@ group: schedule
 
 **9:15**: Introduction, Stephanie Wankowicz/James Fraser
 
-**9:35**: Pratyush Tiwary
+**9:35**: Pratyush Tiwary: *2031: A Bio-AI Odyssey – Generative Models Robust Across Environments*
 
 **10:05**: Sarah Raushcer
 
