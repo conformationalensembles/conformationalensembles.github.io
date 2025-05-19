@@ -47,7 +47,7 @@ group: schedule
 
 **10:55**: BREAK
 
-**11:20**: Laurel Kinman
+**11:20**: Laurel Kinman: *Towards quantitative analysis of conformational landscapes with cryo-EM*
 
 **12:00**: LUNCH
 
