@@ -59,7 +59,7 @@ group: schedule
 
 **3:20**: BREAK
 
-**3:50**: Ben Barad
+**3:50**: Ben Barad: *Introducing cellular context to statistical structural biology*
 
 **4:30**: Closing, Stephanie Wankowicz/James Fraser
 
