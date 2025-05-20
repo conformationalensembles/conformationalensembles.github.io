@@ -55,7 +55,7 @@ group: schedule
 
 **2:10**: Abstract #3
 
-**2:40**: Bronwyn Lucas
+**2:40**: Bronwyn Lucas: *Cryo-EM for single molecule structural cell biology*
 
 **3:20**: BREAK
 
