@@ -11,7 +11,7 @@ group: schedule
 
 **9:35**: Pratyush Tiwary: *2031: A Bio-AI Odyssey – Generative Models Robust Across Environments*
 
-**10:05**: Sarah Raushcer
+**10:05**: Sarah Raushcer: *Molecular Simulations of Protein Structure and Dynamics across the Continuum of Protein Disorder*
 
 **10:45**: BREAK
 
