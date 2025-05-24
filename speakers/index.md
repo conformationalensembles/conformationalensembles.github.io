@@ -11,6 +11,7 @@ group: Speakers
 - [Laurel Kinman, UCSF](https://kinmanlab.ucsf.edu/)
 - [Axel Levy, Stanford/SLAC](https://axlevy.com/)
 - [Bronwyn Lucas, UC Berkeley](https://www.lucaslab.science/)
+- [Eugene Palovcak, Generate Biomedicines](https://www.linkedin.com/in/eugene-palovcak-1878ab17b/)
 - [Sarah Rauscher, UToronto](https://rauscher-group.physics.utoronto.ca/)
 - [Erik Thiede, Cornell](https://thiedelab.github.io/)
 - [Pratyush Tiwary, UMaryland](https://chem.umd.edu/people/pratyush-tiwary)
