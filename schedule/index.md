@@ -25,11 +25,13 @@ group: schedule
 
 **2:10**: Karson Chrispens
 
-**2:40**: Doeke Hekstra
+**2:30**: Doeke Hekstra
 
-**3:20**: BREAK
+**3:10**: BREAK
 
-**3:50**: Vratin Srivastava: *Biomolecule Water Molecule Placement Using Experimental Data Guided Flow Matching*
+**3:35**: Eugene Palovcak: *Drugging an Evolving Allosteric Nanomachine*
+
+**4:05**: Vratin Srivastava: *Biomolecule Water Molecule Placement Using Experimental Data Guided Flow Matching*
 
 **4:30**: Happy Hour at [Ballast Point Brewing](https://ballastpoint.com/location/san-francisco/) 
 
@@ -53,7 +55,7 @@ group: schedule
 
 **1:30**: Axel Levy: *Leveraging cryo-EM data for enhanced conformational sampling*
 
-**2:10**: Yuda Chen 
+**2:10**: Yuda Chen: *Emergence of specific binding and catalysis from a designed generalist binding protein*
 
 **2:40**: Bronwyn Lucas: *Cryo-EM for single molecule structural cell biology*
 
