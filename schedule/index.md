@@ -7,7 +7,7 @@ group: schedule
 
 **9:00**: Coffee  
 
-**9:15**: Introduction, Stephanie Wankowicz/James Fraser
+**9:15**: Introduction, Stephanie Wankowicz
 
 **9:35**: Pratyush Tiwary: *2031: A Bio-AI Odyssey – Generative Models Robust Across Environments*
 
@@ -17,19 +17,19 @@ group: schedule
 
 **11:05**: Siyuan Du: *Has AlphaFold learned physics?*
 
-**11:45**: Abstract Speaker #1
+**11:45**: Aditi Krishnapriyan: *Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional*
 
 **12:15**: LUNCH
 
 **1:30**: Hannah Wayment-Steele: *Learning millisecond protein motions from what is missing in NMR spectra*
 
-**2:10**: Abstract Speaker #2
+**2:10**: Karson Chrispens
 
 **2:40**: Doeke Hekstra
 
 **3:20**: BREAK
 
-**3:50**: Stephanie Wankowicz: *Decoding conformational ensembles in ligand binding*
+**3:50**: Vratin Srivastava: *Biomolecule Water Molecule Placement Using Experimental Data Guided Flow Matching*
 
 **4:30**: Happy Hour at [Ballast Point Brewing](https://ballastpoint.com/location/san-francisco/) 
 
@@ -53,7 +53,7 @@ group: schedule
 
 **1:30**: Axel Levy: *Leveraging cryo-EM data for enhanced conformational sampling*
 
-**2:10**: Abstract #3
+**2:10**: Yuda Chen 
 
 **2:40**: Bronwyn Lucas: *Cryo-EM for single molecule structural cell biology*
 
