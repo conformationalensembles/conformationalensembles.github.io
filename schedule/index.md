@@ -45,7 +45,7 @@ group: schedule
 
 **9:15**: The role of open science in conformational ensemble algorithmic development
 
-**10:15**: Erik Thiede
+**10:15**: Erik Thiede: *Learning Forces for Molecular Simulations from Cryo-EM*
 
 **10:55**: BREAK
 
