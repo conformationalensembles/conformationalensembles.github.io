@@ -23,15 +23,15 @@ group: schedule
 
 **1:30**: Hannah Wayment-Steele: *Learning millisecond protein motions from what is missing in NMR spectra*
 
-**2:10**: Karson Chrispens
+**2:10**: Bohdi Vani: *Bridging Smoothed Molecular Dynamics and Score-Based Learning for Conformational Ensemble Generation*
 
-**2:30**: Doeke Hekstra
+**2:30**: Doeke Hekstra: *Connecting AlphaFold to experimental data*
 
 **3:10**: BREAK
 
 **3:35**: Eugene Palovcak: *Drugging an Evolving Allosteric Nanomachine*
 
-**4:05**: Vratin Srivastava: *Biomolecule Water Molecule Placement Using Experimental Data Guided Flow Matching*
+**4:05**: Karson Chrispens: *Steered protein generative models for real space refinement of conformational ensembles*
 
 **4:30**: Happy Hour at [Ballast Point Brewing](https://ballastpoint.com/location/san-francisco/) 
 
