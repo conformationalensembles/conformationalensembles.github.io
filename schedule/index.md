@@ -23,7 +23,7 @@ group: schedule
 
 **1:30**: Hannah Wayment-Steele: *Learning millisecond protein motions from what is missing in NMR spectra*
 
-**2:10**: Bohdi Vani: *Bridging Smoothed Molecular Dynamics and Score-Based Learning for Conformational Ensemble Generation*
+**2:10**: Bodhi Vani/Ameya Daigavane: *Bridging Smoothed Molecular Dynamics and Score-Based Learning for Conformational Ensemble Generation*
 
 **2:30**: Doeke Hekstra: *Connecting AlphaFold to experimental data*
 
