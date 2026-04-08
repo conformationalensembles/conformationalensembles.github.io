@@ -12,7 +12,7 @@ group: home
 </span>
 </p>
 
-Statistical structural biology seeks to move beyond the classic single-dataset-single-structure paradigm. The most compelling questions in structural biology, such as elucidating the dynamics of transient biological events, understanding allostery, and investigating how binding events alter the protein conformational landscape, cannot be effectively addressed with a single structure alone. To tackle these challenges, we must embrace large-scale data analysis, statistical interpretation of conformational ensembles, and explore the modeling relationships between multiple maps and models.
+Statistical structural biology seeks to move beyond the classic single-dataset-single-structure paradigm. The most compelling questions in structural biology, such as elucidating the dynamics of transient biological events, understanding allostery, and investigating how binding events alter the protein conformational landscape, cannot be effectively addressed with a single structure alone. To tackle these challenges, we must embrace large-scale data analysis, statistical interpretation of conformational ensembles, and explore the modeling relationships between multiple maps and models. This conference is hosted in partnership with the [DiffUSE Project](https://diffuse.science).
 
 <div class="info-block" markdown="0">
 <table>
