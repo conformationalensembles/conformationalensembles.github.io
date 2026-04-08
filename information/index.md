@@ -21,3 +21,11 @@ Please head to the [registration page](/register) to register.
 ## Organizers
 
 [Stephanie Wankowicz](https://wankowiczlab.com/) and [James Fraser](https://fraserlab.com/)
+
+## Contact
+
+| Name | Email | Role |
+|------|-------|------|
+| DiffUSE | [diffuse@radial.org](mailto:diffuse@radial.org) | General Inquiry |
+| Andy Burnim | [andy.burnim@radial.org](mailto:andy.burnim@radial.org) | DiffUSE Project Manager |
+| Rebecca Niznak | [rebecca.niznak2@ucsf.edu](mailto:rebecca.niznak2@ucsf.edu) | Executive Business Administrator, UCSF |
