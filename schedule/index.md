@@ -41,12 +41,12 @@ group: Schedule
 | 9:00 - 9:15 | Coffee and Gathering |
 | 9:30 - 10:30 | TBD |
 | 10:30 - 11:10 | *Break* |
-| 11:10 - 11:30 | Polly Fordyce |
-| 11:30 - 11:50 | Frank Moss |
+| 11:10 - 11:30 | Joey Davis |
+| 11:30 - 11:50 | Pilar Cossio |
 | 11:50 - 12:10 | *Discussion* |
 | 12:10 - 1:30 | *Lunch* |
-| 1:30 - 1:50 | Joey Davis |
-| 1:50 - 2:10 | Pilar Cossio |
+| 1:30 - 1:50 | Polly Fordyce |
+| 1:50 - 2:10 | Frank Moss |
 | 2:10 - 2:30 | *Discussion* |
 | 2:30 - 3:15 | *Break* |
 | 3:15 - 3:35 | Fred Poitevin, Jay Shenoy, Sonia Kim |
