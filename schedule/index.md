@@ -25,8 +25,8 @@ group: Schedule
 | 12:10 - 1:30 | *Lunch* |
 | 1:30 - 1:50 | Karson Chrispens |
 | 1:50 - 2:10 | Alisia Fadini |
-| 2:30 - 2:55 | *Discussion* |
-| 2:55 - 3:40 | *Break* |
+| 2:30 - 2:50 | *Discussion* |
+| 2:50 - 3:40 | *Break* |
 | 3:40 - 4:00 | Mike Thompson |
 | 4:00 - 4:20 | Colin Jackson |
 | 4:20 - 4:40 | *Discussion* |
@@ -51,6 +51,6 @@ group: Schedule
 | 2:30 - 3:15 | *Break* |
 | 3:15 - 3:35 | Fred Poitevin, Jay Shenoy, Sonia Kim |
 | 3:35 - 3:55 | Alex Bronstein |
-| 3:55 - 4:10 | *Discussion* |
-| 4:10 - 4:20 | **Closing** |
-| 4:20 | **Beers in front of Genentech Hall** |
+| 3:55 - 4:15 | *Discussion* |
+| 4:15 - 4:25 | **Closing** |
+| 4:25 | **Beers in front of Genentech Hall** |
