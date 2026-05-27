@@ -51,6 +51,6 @@ group: Schedule
 | 2:30 - 3:15 | *Break* |
 | 3:15 - 3:35 | Fred Poitevin, Jay Shenoy, Sonia Kim |
 | 3:35 - 3:55 | Alex Bronstein |
-| 3:55 - 4:04 | *Discussion* |
-| 4:04 - 4:10 | **Closing** |
-| 4:10 | **Beers in front of Genentech Hall** |
+| 3:55 - 4:10 | *Discussion* |
+| 4:10 - 4:20 | **Closing** |
+| 4:20 | **Beers in front of Genentech Hall** |
