@@ -39,7 +39,9 @@ group: Schedule
 | Time | Event |
 |------|-------|
 | 9:00 - 9:15 | Coffee and Gathering |
-| 9:30 - 10:30 | TBD |
+| 9:30 - 9:50 | Jennifer Listgarten |
+| 9:50 - 10:10 | Soojung Yang |
+| 10:10 - 10:30 | *Discussion* |
 | 10:30 - 11:10 | *Break* |
 | 11:10 - 11:30 | Joey Davis |
 | 11:30 - 11:50 | Pilar Cossio |
