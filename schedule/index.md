@@ -55,4 +55,4 @@ group: Schedule
 | 3:35 - 3:55 | Alex Bronstein |
 | 3:55 - 4:15 | *Discussion* |
 | 4:15 - 4:25 | **Closing** |
-| 4:25 | **Beers in front of Genentech Hall** |
+| 4:25 | **Happpy Hour at SF Kebab** |
